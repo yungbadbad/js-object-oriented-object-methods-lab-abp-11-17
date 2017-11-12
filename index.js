@@ -16,6 +16,6 @@ BoardMember.prototype.doCharity = function(){
   returns 'I like to help people'
 }
 
-BoardMember.prototype.veto = function(){
-  returns 'No, I must disagree'
+BoardMember.prototype.sayHi = function(){
+  returns 'Hi, my name is <name>. and I am from <homestate>'
 }
